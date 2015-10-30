@@ -1,0 +1,14 @@
+Tim RoughgardenInstructor· 11 days ago 
+From one of previous sessions posted by SzuHsien Lee. (Thanks to Dieter Jundt, CTA from Algo 1 of a previous session)
+
+https://dl.dropboxusercontent.com/u/20888180/AlgI_wk2_testcases/10.txt
+
+https://dl.dropboxusercontent.com/u/20888180/AlgI_wk2_testcases/100.txt
+
+https://dl.dropboxusercontent.com/u/20888180/AlgI_wk2_testcases/1000.txt
+
+Answers are:
+size   first      last      median
+10     25        29        21
+100   615      587      518
+1000 10297 10184  8921
